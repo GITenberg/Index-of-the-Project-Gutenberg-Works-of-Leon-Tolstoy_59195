@@ -1,0 +1,25 @@
+_repo: Index-of-the-Project-Gutenberg-Works-of-Leon-Tolstoy_59195
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Leon Tolstoy (Léof N. Tolstoï)
+    gutenberg_agent_id: '50337'
+    url: http://www.gutenberg.org/2009/agents/50337
+  editor:
+    agent_name: Widger, David
+    birthdate: 1932
+    gutenberg_agent_id: '1961'
+    url: http://www.gutenberg.org/2009/agents/1961
+description: ''
+gutenberg_issued: '2019-04-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '59195'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Index of the Project Gutenberg Works of Leon Tolstoy
+url: http://www.gutenberg.org/ebooks/59195
